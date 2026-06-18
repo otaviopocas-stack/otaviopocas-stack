@@ -12,7 +12,7 @@
 
 ![UNIFIL](https://img.shields.io/badge/UNIFIL-1%C2%BA%20Semestre-FF6B00?style=for-the-badge&labelColor=0D1117)
 ![Curso](https://img.shields.io/badge/Curso-Engenharia%20de%20Software-FF6B00?style=for-the-badge&labelColor=0D1117)
-![Basquete](https://img.shields.io/badge/%F0%9F%8F%80%20Basquete-Hobby-FF6B00?style=for-the-badge&labelColor=0D1117)
+
 
 </div>
 
@@ -37,8 +37,7 @@ public class Otavio {
 }
 ```
 
-Estudante iniciante de **Engenharia de Software** na **UNIFIL**, dando os primeiros passos no mundo da programação. Fora do código, vale a quadra: **basquete** é hobby e ajuda a equilibrar a rotina de estudos.
-
+Estudante iniciante de **Engenharia de Software** na **UNIFIL**, dando os primeiros passos no mundo da programação.
 <br>
 
 ## 🛠️ Tecnologias
