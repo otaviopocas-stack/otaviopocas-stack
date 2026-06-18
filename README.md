@@ -16,7 +16,7 @@
 
 </div>
 
-## 🏀 Sobre mim
+##  Sobre mim
 
 ```java
 public class Otavio {
@@ -24,7 +24,7 @@ public class Otavio {
     private String instituicao = "UNIFIL";
     private String periodo = "1º Semestre";
     private String linguagemPrincipal = "Java";
-    private String hobby = "Basquete";
+    private String hobby = "";
 
     public String[] objetivos() {
         return new String[] {
