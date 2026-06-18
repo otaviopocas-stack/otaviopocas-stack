@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF6B00&height=220&section=header&text=Ot%C3%A1vio%20Po%C3%A7as&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20%40%20UNIFIL%20%7C%20%F0%9F%8F%80%20Basquete%20por%20hobby&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF6B00&height=220&section=header&text=Ot%C3%A1vio%20Po%C3%A7as&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20%40%20UNIFIL&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B00&center=true&vCenter=true&width=600&height=60&lines=Compilando+c%C3%B3digo+%F0%9F%92%BB;Treinando+arremessos+%F0%9F%8F%80;1%C2%BA+Semestre+de+Eng.+de+Software;Sempre+aprendendo+Java" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B00&center=true&vCenter=true&width=600&height=60&lines=Compilando+c%C3%B3digo+%F0%9F%92%BB;1%C2%BA+Semestre+de+Eng.+de+Software;Sempre+aprendendo+Java" alt="Typing SVG" />
 
 </div>
 
@@ -12,11 +12,10 @@
 
 ![UNIFIL](https://img.shields.io/badge/UNIFIL-1%C2%BA%20Semestre-FF6B00?style=for-the-badge&labelColor=0D1117)
 ![Curso](https://img.shields.io/badge/Curso-Engenharia%20de%20Software-FF6B00?style=for-the-badge&labelColor=0D1117)
-![Basquete](https://img.shields.io/badge/%F0%9F%8F%80%20Basquete-Hobby-FF6B00?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
-## 🏀 Sobre mim
+## 💻 Sobre mim
 
 ```java
 public class Otavio {
@@ -24,20 +23,18 @@ public class Otavio {
     private String instituicao = "UNIFIL";
     private String periodo = "1º Semestre";
     private String linguagemPrincipal = "Java";
-    private String hobby = "Basquete";
 
     public String[] objetivos() {
         return new String[] {
             "Aprender a programar de verdade, não só copiar do Stack Overflow",
             "Construir projetos sólidos em Java",
-            "Manter o equilíbrio entre quadra e código",
             "Não dar bug em produção (ainda estou tentando)"
         };
     }
 }
 ```
 
-Estudante iniciante de **Engenharia de Software** na **UNIFIL**, dando os primeiros passos no mundo da programação. Fora do código, vale a quadra: **basquete** é hobby e ajuda a equilibrar a rotina de estudos.
+Estudante iniciante de **Engenharia de Software** na **UNIFIL**, dando os primeiros passos no mundo da programação.
 
 <br>
 
