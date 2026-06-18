@@ -1,3 +1,5 @@
+<img src="personagem_basquete_pixel.svg" width="70" align="right" />
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF6B00&height=220&section=header&text=Ot%C3%A1vio%20Po%C3%A7as&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20%40%20UNIFIL&descAlignY=58&descSize=18" width="100%"/>
